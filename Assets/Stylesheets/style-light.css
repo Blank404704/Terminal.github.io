@@ -1,0 +1,18 @@
+html{
+    font-family: Consolas, "Courier New", monospace;
+    color: black;
+    background-color: white;
+}
+
+a {
+  color: darkblue;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: darkgray;
+}
+
+a:active {
+  color: red;
+}

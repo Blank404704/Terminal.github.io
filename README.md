@@ -8,7 +8,7 @@ To play:
 * And play the `.exe` files.
 Easy :}
 ## FAQ:
-### Can't I read the code to get the passwords?
+### Can't I just read the code to get the passwords?
 No ;}
 ### What are the commands I can use?
 The only one you need is `help`. :}}}}}}}}}}}}}}}}}}}
